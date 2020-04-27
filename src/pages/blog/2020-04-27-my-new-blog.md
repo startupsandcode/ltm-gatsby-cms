@@ -11,4 +11,6 @@ tags:
   - coding
   - knowledgebase
 ---
+![Blog ](/img/blog-index.jpg "Coffee")
+
 I'm going to be writing here.
