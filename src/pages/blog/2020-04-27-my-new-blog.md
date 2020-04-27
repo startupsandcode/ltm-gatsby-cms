@@ -4,7 +4,7 @@ title: My New Blog
 date: 2020-04-27T12:13:20.464Z
 description: A simple new site for posting stuff
 featuredpost: false
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/chemex.jpg
 tags:
   - development
   - writing
